@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-shipping-react-native",
+  "capabilityKey": "planned:ecommerce:shipping",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-ecommerce-shipping-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/ecommerce/nextjs/shipping.md",
+  "presentationPlan": "projects/ecommerce/react-native/shipping.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
